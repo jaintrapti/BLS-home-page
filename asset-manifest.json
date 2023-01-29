@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BLS-home-page/static/css/main.8cad4fbc.css",
+    "main.js": "/BLS-home-page/static/js/main.96fcbc3f.js",
+    "static/media/library.jpg": "/BLS-home-page/static/media/library.380206f0dd14be89354a.jpg",
+    "static/media/bg.jpg": "/BLS-home-page/static/media/bg.7e003f13cabc85d18d18.jpg",
+    "static/media/sports.jpg": "/BLS-home-page/static/media/sports.e9a0417c483e4122f40b.jpg",
+    "static/media/schl.jpg": "/BLS-home-page/static/media/schl.9d2fe075d70bba77d94d.jpg",
+    "static/media/middle.jpg": "/BLS-home-page/static/media/middle.fe692de60ed8361ad33a.jpg",
+    "static/media/edu.jpg": "/BLS-home-page/static/media/edu.d90d1d2c8704cddad93c.jpg",
+    "index.html": "/BLS-home-page/index.html",
+    "main.8cad4fbc.css.map": "/BLS-home-page/static/css/main.8cad4fbc.css.map",
+    "main.96fcbc3f.js.map": "/BLS-home-page/static/js/main.96fcbc3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cad4fbc.css",
+    "static/js/main.96fcbc3f.js"
+  ]
+}
